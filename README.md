@@ -3,7 +3,7 @@ Some files in how to create a Deep Neural Network
 
 In chapter4_WGAN-GP file, please use
 Download CIFAR-10 (Python version) at
-[](https://www.cs.toronto.edu/~kriz/cifar.html) 
+[Datasets downloading area](https://www.cs.toronto.edu/~kriz/cifar.html) 
 
 and fill in the path to the
 extracted files here!
